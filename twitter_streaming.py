@@ -10,10 +10,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Variables that contains the user credentials to access Twitter API
-access_token = "1433349841-t50awiAG7X5ku6EahQAdDdxfwinVwS0IVOko1B9"
-access_token_secret = "669MucXcNDse5DIdP1Mpvz9H9UMODLJjBu6apOwl0WiMS"
-consumer_key = "vuMwsVlSk1LDtpYYpI7zT1i9N"
-consumer_secret = "bkz9QaFSyMNmN3mI8sU9zkDqPPxoFQsPCfAPMb8CbLdwlycuWc"
+access_token = " #######"
+access_token_secret = "########"
+consumer_key = "###########"
+consumer_secret = "############@"
 
 
 #This is a basic listener that just prints received tweets to stdout.
